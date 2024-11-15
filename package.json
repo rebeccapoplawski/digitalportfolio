@@ -1,10 +1,10 @@
 {
-  "name": "personal-site",
+  "name": "digital-portfolio",
   "homepage": "https://rebeccapoplawski.github.io",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rebeccapoplawski/portfolio2.git"
+    "url": "git+https://github.com/rebeccapoplawski/digital-portfolio.git"
   },
   "engines": {
     "node": ">=16.x"
